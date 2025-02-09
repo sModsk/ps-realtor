@@ -1,6 +1,8 @@
 Big thanks to the original creators of PS Housing for their incredible work on this project. Please check out their repository for more details and contributions!
 https://github.com/Project-Sloth/ps-realtor
 
+# This version adds support for listing shells created with [smodsk_shellBuilder](https://smodsk.tebex.io/package/6674161)
+
 # ps-realtor
 
 `/housing` command
